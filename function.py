@@ -11,5 +11,5 @@ Created on Sat Jun 15 12:47:26 2019
 def average(list):
     first =  sum(list)
     print(first/len(list))
-    hola
+
     
